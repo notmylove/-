@@ -76,3 +76,5 @@ c因素影响：(c2 - c1)*a2*b2
 
 *实际应用*：公司最重要品牌是哪些？
 *解决方法*：根据二八法则，运用帕累托图分析（按频数降序排列，画出直方图，然后画出累积频率折线图，其实就相当于累积分布函数cdf）。
+![](https://github.com/notmylove/Data-operations-officer/blob/master/one%20week/picture/paleituo.png)
+
