@@ -41,6 +41,7 @@
 比如，这个例子是分析从用户进入网站到最终购买商品的变化趋势。
 
 ![](https://github.com/notmylove/Data-operations-officer/blob/master/one%20week/picture/5.png)
+
 分析：
 从用户进入网站到浏览商品页面，转化率是40%;浏览商品到加入购物车转化率是20%等，那要找出哪个环节的转化率最低，我们需要有对比数据。
 比如第一个，进入网站到浏览商品，如果同行业水平的转化率是45%，而我们只有40%，那说明这个过程，没有达到行业平均水平，我们就需要分析具体原因在哪里，再有针对性的去优化和改善
@@ -48,6 +49,7 @@
 AARRR模型：
 
 AARRR(Acquisition、Activation、Retention、Revenue、Refer)是硅谷的一个风险投资人戴维 · 麦克鲁尔在2008年时创建的，分别是指获取、激活、留存、收入和推荐。
+
 ![](https://github.com/notmylove/Data-operations-officer/blob/master/one%20week/picture/6.png)
 
 交叉分析法：
@@ -57,12 +59,14 @@ AARRR(Acquisition、Activation、Retention、Revenue、Refer)是硅谷的一个�
 a. 交叉分析角度：客户端+时间
 
 ![](https://github.com/notmylove/Data-operations-officer/blob/master/one%20week/picture/7.png)
+
 从这个数据中，可以看出iOS端每个月的用户数在增加，而Android端在降低，总体数据没有增长的主要原因在于Android端数据下降所导致的。
 那接下来要分析下为什么Android端二季度新增用户数据在下降呢?一般这个时候，会加入渠道维度。
 
 b. 交叉分析角度：客户端+时间+渠道
 
 ![](https://github.com/notmylove/Data-operations-officer/blob/master/one%20week/picture/8.png)
+
 从这个数据中可以看出，Android端A预装渠道占比比较高，而且呈现下降趋势，其他渠道的变化并不明显。
 因此可以得出结论：Android端在二季度新增用户降低主要是由于A预装渠道降低所导致的。
 所以说，交叉分析的主要作用，是从多个角度细分数据，从中发现数据变化的具体原因。
