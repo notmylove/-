@@ -1,6 +1,6 @@
 # 第五天6.22
 ## 专题二的学习梳理
-![]()
+![](https://github.com/notmylove/Data-operations-officer/blob/master/one%20week/picture/9.png)
 
 专题二的狐主要内容就是探讨什么是好的数据体验，从不同角度的视角来分析。
 
@@ -13,7 +13,7 @@
 使得更有竞争力。
 
 业务价值与价值量化：
-![]()
+![](https://github.com/notmylove/Data-operations-officer/blob/master/one%20week/picture/10.png)
 
 通过一个园区管理实际案例来进一步阐述。
 
