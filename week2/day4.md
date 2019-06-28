@@ -150,7 +150,7 @@ CI的值(λmax-n/(n-1))由判断矩阵计算获得，RI的值查表获得，重�
 
 （这里MATLAB相关的程序代码就不上传了，有需要可以找我）
 
-接下来再来说说**改进的模糊层次分析法**
+接下来再来说说[改进的模糊层次分析法](https://github.com/notmylove/Data-operations-officer/blob/master/week2/%E6%94%B9%E8%BF%9B%E7%9A%84%E6%A8%A1%E7%B3%8A%E5%B1%82%E6%AC%A1%E5%88%86%E6%9E%90%E6%B3%95.md)
 
 
 
