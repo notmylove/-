@@ -20,7 +20,7 @@
 
 [经过与学员的沟通交流，成果总结写在这里](https://github.com/notmylove/Data-operations-officer/blob/master/week2/day5.md)
 
-针对上述学员的问题，这里重新记录一下层次分析法的过程以及改进的模糊层次分析法
+针对上述学员的问题，这里重新记录一下[层次分析法的过程](https://github.com/notmylove/Data-operations-officer/blob/master/week2/%E5%B1%82%E6%AC%A1%E5%88%86%E6%9E%90%E6%B3%95.md)以及改进的模糊层次分析法
 
 ## 层次分析法
 层次分析法，简称AHP，是指将与决策总是有关的元素分解成目标、准则、方案等层次，在此基础之上进行定性和定量分析的决策方法。是对一些较为复杂、
